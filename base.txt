@@ -1,0 +1,45 @@
+Person:
+
+Jamie
+
+Topic:
+
+Chemicals and Enviroment
+
+Essential Moral Question:
+
+What are the Chemicals in the Water that are Bad?
+
+Thesis:
+
+There are chemicals in the water that are bad?
+
+Project:
+
+Make a Website about the Chemicals that are in the Water
+
+List of Chemicals:
+
+-chlorpyrifos
+
+-Phthalates
+
+-Mercury
+
+-Lead
+
+-Bacterica/Viruses
+
+-Rust
+
+Chemical Profile Template
+
+-Name
+
+-Info/Background
+
+-How its getting into the water
+
+-How to fix it
+
+-Sources
